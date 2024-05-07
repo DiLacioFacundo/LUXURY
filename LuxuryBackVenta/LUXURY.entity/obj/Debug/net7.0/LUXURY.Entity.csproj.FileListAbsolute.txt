@@ -1,0 +1,14 @@
+C:\Users\Alumno\Downloads\LUXURY\LuxuryBackVenta\LUXURY.entity\bin\Debug\net7.0\LUXURY.Entity.deps.json
+C:\Users\Alumno\Downloads\LUXURY\LuxuryBackVenta\LUXURY.entity\bin\Debug\net7.0\LUXURY.Entity.runtimeconfig.json
+C:\Users\Alumno\Downloads\LUXURY\LuxuryBackVenta\LUXURY.entity\bin\Debug\net7.0\LUXURY.Entity.dll
+C:\Users\Alumno\Downloads\LUXURY\LuxuryBackVenta\LUXURY.entity\bin\Debug\net7.0\LUXURY.Entity.pdb
+C:\Users\Alumno\Downloads\LUXURY\LuxuryBackVenta\LUXURY.entity\obj\Debug\net7.0\LUXURY.Entity.csproj.AssemblyReference.cache
+C:\Users\Alumno\Downloads\LUXURY\LuxuryBackVenta\LUXURY.entity\obj\Debug\net7.0\LUXURY.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Downloads\LUXURY\LuxuryBackVenta\LUXURY.entity\obj\Debug\net7.0\LUXURY.Entity.AssemblyInfoInputs.cache
+C:\Users\Alumno\Downloads\LUXURY\LuxuryBackVenta\LUXURY.entity\obj\Debug\net7.0\LUXURY.Entity.AssemblyInfo.cs
+C:\Users\Alumno\Downloads\LUXURY\LuxuryBackVenta\LUXURY.entity\obj\Debug\net7.0\LUXURY.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Downloads\LUXURY\LuxuryBackVenta\LUXURY.entity\obj\Debug\net7.0\LUXURY.Entity.dll
+C:\Users\Alumno\Downloads\LUXURY\LuxuryBackVenta\LUXURY.entity\obj\Debug\net7.0\refint\LUXURY.Entity.dll
+C:\Users\Alumno\Downloads\LUXURY\LuxuryBackVenta\LUXURY.entity\obj\Debug\net7.0\LUXURY.Entity.pdb
+C:\Users\Alumno\Downloads\LUXURY\LuxuryBackVenta\LUXURY.entity\obj\Debug\net7.0\LUXURY.Entity.genruntimeconfig.cache
+C:\Users\Alumno\Downloads\LUXURY\LuxuryBackVenta\LUXURY.entity\obj\Debug\net7.0\ref\LUXURY.Entity.dll

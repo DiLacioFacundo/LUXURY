@@ -1,0 +1,12 @@
+C:\Users\Alumno\Downloads\LUXURY\LuxuryBackVenta\LUXURY.dal\bin\Debug\net6.0\LUXURY.DAL.deps.json
+C:\Users\Alumno\Downloads\LUXURY\LuxuryBackVenta\LUXURY.dal\bin\Debug\net6.0\LUXURY.DAL.dll
+C:\Users\Alumno\Downloads\LUXURY\LuxuryBackVenta\LUXURY.dal\bin\Debug\net6.0\LUXURY.DAL.pdb
+C:\Users\Alumno\Downloads\LUXURY\LuxuryBackVenta\LUXURY.dal\obj\Debug\net6.0\LUXURY.DAL.csproj.AssemblyReference.cache
+C:\Users\Alumno\Downloads\LUXURY\LuxuryBackVenta\LUXURY.dal\obj\Debug\net6.0\LUXURY.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Downloads\LUXURY\LuxuryBackVenta\LUXURY.dal\obj\Debug\net6.0\LUXURY.DAL.AssemblyInfoInputs.cache
+C:\Users\Alumno\Downloads\LUXURY\LuxuryBackVenta\LUXURY.dal\obj\Debug\net6.0\LUXURY.DAL.AssemblyInfo.cs
+C:\Users\Alumno\Downloads\LUXURY\LuxuryBackVenta\LUXURY.dal\obj\Debug\net6.0\LUXURY.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Downloads\LUXURY\LuxuryBackVenta\LUXURY.dal\obj\Debug\net6.0\LUXURY.DAL.dll
+C:\Users\Alumno\Downloads\LUXURY\LuxuryBackVenta\LUXURY.dal\obj\Debug\net6.0\refint\LUXURY.DAL.dll
+C:\Users\Alumno\Downloads\LUXURY\LuxuryBackVenta\LUXURY.dal\obj\Debug\net6.0\LUXURY.DAL.pdb
+C:\Users\Alumno\Downloads\LUXURY\LuxuryBackVenta\LUXURY.dal\obj\Debug\net6.0\ref\LUXURY.DAL.dll
