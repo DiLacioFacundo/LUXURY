@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\facun\\Descargas\\LuxuryBackVenta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CECC2FC-8065-4EF4-B5BD-A8928C651EC7}|Luxury.AplicacionWeb\\Luxury.AplicacionWeb.csproj|d:\\facun\\descargas\\luxurybackventa\\luxury.aplicacionweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CECC2FC-8065-4EF4-B5BD-A8928C651EC7}|Luxury.AplicacionWeb\\Luxury.AplicacionWeb.csproj|solutionrelative:luxury.aplicacionweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CECC2FC-8065-4EF4-B5BD-A8928C651EC7}|Luxury.AplicacionWeb\\Luxury.AplicacionWeb.csproj|d:\\facun\\descargas\\luxurybackventa\\luxury.aplicacionweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1CECC2FC-8065-4EF4-B5BD-A8928C651EC7}|Luxury.AplicacionWeb\\Luxury.AplicacionWeb.csproj|solutionrelative:luxury.aplicacionweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4CF8C2-C88E-47BF-A4F9-BBA383B14005}|LUXURY.IOC\\LUXURY.IOC.csproj|d:\\facun\\descargas\\luxurybackventa\\luxury.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4CF8C2-C88E-47BF-A4F9-BBA383B14005}|LUXURY.IOC\\LUXURY.IOC.csproj|solutionrelative:luxury.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36351BEE-E2E1-4CD2-9E26-9E750007E58B}|LUXURY.dal\\LUXURY.DAL.csproj|d:\\facun\\descargas\\luxurybackventa\\luxury.dal\\luxury.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{36351BEE-E2E1-4CD2-9E26-9E750007E58B}|LUXURY.dal\\LUXURY.DAL.csproj|solutionrelative:luxury.dal\\luxury.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\facun\\Descargas\\LuxuryBackVenta\\Luxury.AplicacionWeb\\Program.cs",
+              "RelativeDocumentMoniker": "Luxury.AplicacionWeb\\Program.cs",
+              "ToolTip": "D:\\facun\\Descargas\\LuxuryBackVenta\\Luxury.AplicacionWeb\\Program.cs",
+              "RelativeToolTip": "Luxury.AplicacionWeb\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T03:57:17.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\facun\\Descargas\\LuxuryBackVenta\\Luxury.AplicacionWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "Luxury.AplicacionWeb\\appsettings.json",
+              "ToolTip": "D:\\facun\\Descargas\\LuxuryBackVenta\\Luxury.AplicacionWeb\\appsettings.json",
+              "RelativeToolTip": "Luxury.AplicacionWeb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-20T03:55:55.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LUXURY.DAL",
+              "DocumentMoniker": "D:\\facun\\Descargas\\LuxuryBackVenta\\LUXURY.dal\\LUXURY.DAL.csproj",
+              "RelativeDocumentMoniker": "LUXURY.dal\\LUXURY.DAL.csproj",
+              "ToolTip": "D:\\facun\\Descargas\\LuxuryBackVenta\\LUXURY.dal\\LUXURY.DAL.csproj",
+              "RelativeToolTip": "LUXURY.dal\\LUXURY.DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-20T03:48:08.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dependencia.cs",
+              "DocumentMoniker": "D:\\facun\\Descargas\\LuxuryBackVenta\\LUXURY.IOC\\Dependencia.cs",
+              "RelativeDocumentMoniker": "LUXURY.IOC\\Dependencia.cs",
+              "ToolTip": "D:\\facun\\Descargas\\LuxuryBackVenta\\LUXURY.IOC\\Dependencia.cs",
+              "RelativeToolTip": "LUXURY.IOC\\Dependencia.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T03:45:06.064Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

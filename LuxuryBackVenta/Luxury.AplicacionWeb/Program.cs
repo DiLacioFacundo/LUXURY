@@ -1,7 +1,13 @@
+//referencia a proyecto IOC
+using LUXURY.IOC;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+//Utilizo el metodo InyectarDependencias para crear todas las configuraciones
+builder.Services.InyectarDependencia(builder.Configuration);
 
 var app = builder.Build();
 

@@ -1,0 +1,17 @@
+D:\facun\Descargas\LuxuryBackVenta\LUXURY.BLL\bin\Debug\net8.0\LUXURY.BLL.deps.json
+D:\facun\Descargas\LuxuryBackVenta\LUXURY.BLL\bin\Debug\net8.0\LUXURY.BLL.dll
+D:\facun\Descargas\LuxuryBackVenta\LUXURY.BLL\bin\Debug\net8.0\LUXURY.BLL.pdb
+D:\facun\Descargas\LuxuryBackVenta\LUXURY.BLL\obj\Debug\net8.0\LUXURY.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\facun\Descargas\LuxuryBackVenta\LUXURY.BLL\obj\Debug\net8.0\LUXURY.BLL.AssemblyInfoInputs.cache
+D:\facun\Descargas\LuxuryBackVenta\LUXURY.BLL\obj\Debug\net8.0\LUXURY.BLL.AssemblyInfo.cs
+D:\facun\Descargas\LuxuryBackVenta\LUXURY.BLL\obj\Debug\net8.0\LUXURY.BLL.csproj.CoreCompileInputs.cache
+D:\facun\Descargas\LuxuryBackVenta\LUXURY.BLL\obj\Debug\net8.0\LUXURY.BLL.dll
+D:\facun\Descargas\LuxuryBackVenta\LUXURY.BLL\obj\Debug\net8.0\refint\LUXURY.BLL.dll
+D:\facun\Descargas\LuxuryBackVenta\LUXURY.BLL\obj\Debug\net8.0\LUXURY.BLL.pdb
+D:\facun\Descargas\LuxuryBackVenta\LUXURY.BLL\obj\Debug\net8.0\ref\LUXURY.BLL.dll
+D:\facun\Descargas\LuxuryBackVenta\LUXURY.BLL\bin\Debug\net8.0\LUXURY.DAL.dll
+D:\facun\Descargas\LuxuryBackVenta\LUXURY.BLL\bin\Debug\net8.0\LUXURY.Entity.dll
+D:\facun\Descargas\LuxuryBackVenta\LUXURY.BLL\bin\Debug\net8.0\LUXURY.DAL.pdb
+D:\facun\Descargas\LuxuryBackVenta\LUXURY.BLL\bin\Debug\net8.0\LUXURY.Entity.pdb
+D:\facun\Descargas\LuxuryBackVenta\LUXURY.BLL\obj\Debug\net8.0\LUXURY.BLL.csproj.AssemblyReference.cache
+D:\facun\Descargas\LuxuryBackVenta\LUXURY.BLL\obj\Debug\net8.0\LUXURY.BLL.csproj.Up2Date

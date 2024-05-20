@@ -1,9 +1,15 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LUXURY.BLL\LUXURY.BLL.csproj" />
+    <ProjectReference Include="..\LUXURY.entity\LUXURY.Entity.csproj" />
+    <ProjectReference Include="..\LUXURY.IOC\LUXURY.IOC.csproj" />
+  </ItemGroup>
 
 </Project>

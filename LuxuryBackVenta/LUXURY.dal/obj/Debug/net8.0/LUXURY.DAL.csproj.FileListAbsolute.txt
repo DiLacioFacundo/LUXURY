@@ -1,0 +1,15 @@
+D:\facun\Descargas\LuxuryBackVenta\LUXURY.dal\bin\Debug\net8.0\LUXURY.DAL.deps.json
+D:\facun\Descargas\LuxuryBackVenta\LUXURY.dal\bin\Debug\net8.0\LUXURY.DAL.dll
+D:\facun\Descargas\LuxuryBackVenta\LUXURY.dal\bin\Debug\net8.0\LUXURY.DAL.pdb
+D:\facun\Descargas\LuxuryBackVenta\LUXURY.dal\obj\Debug\net8.0\LUXURY.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\facun\Descargas\LuxuryBackVenta\LUXURY.dal\obj\Debug\net8.0\LUXURY.DAL.AssemblyInfoInputs.cache
+D:\facun\Descargas\LuxuryBackVenta\LUXURY.dal\obj\Debug\net8.0\LUXURY.DAL.AssemblyInfo.cs
+D:\facun\Descargas\LuxuryBackVenta\LUXURY.dal\obj\Debug\net8.0\LUXURY.DAL.csproj.CoreCompileInputs.cache
+D:\facun\Descargas\LuxuryBackVenta\LUXURY.dal\obj\Debug\net8.0\LUXURY.DAL.dll
+D:\facun\Descargas\LuxuryBackVenta\LUXURY.dal\obj\Debug\net8.0\refint\LUXURY.DAL.dll
+D:\facun\Descargas\LuxuryBackVenta\LUXURY.dal\obj\Debug\net8.0\LUXURY.DAL.pdb
+D:\facun\Descargas\LuxuryBackVenta\LUXURY.dal\obj\Debug\net8.0\ref\LUXURY.DAL.dll
+D:\facun\Descargas\LuxuryBackVenta\LUXURY.dal\bin\Debug\net8.0\LUXURY.Entity.dll
+D:\facun\Descargas\LuxuryBackVenta\LUXURY.dal\bin\Debug\net8.0\LUXURY.Entity.pdb
+D:\facun\Descargas\LuxuryBackVenta\LUXURY.dal\obj\Debug\net8.0\LUXURY.DAL.csproj.AssemblyReference.cache
+D:\facun\Descargas\LuxuryBackVenta\LUXURY.dal\obj\Debug\net8.0\LUXURY.DAL.csproj.Up2Date

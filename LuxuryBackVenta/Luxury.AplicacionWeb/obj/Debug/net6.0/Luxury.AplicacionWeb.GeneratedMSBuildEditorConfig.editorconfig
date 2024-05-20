@@ -9,37 +9,39 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Luxury.AplicacionWeb
 build_property.RootNamespace = Luxury.AplicacionWeb
-build_property.ProjectDir = C:\Users\Alumno\Downloads\LUXURY\LuxuryBackVenta\Luxury.AplicacionWeb\
+build_property.ProjectDir = D:\facun\Descargas\LuxuryBackVenta\Luxury.AplicacionWeb\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Alumno\Downloads\LUXURY\LuxuryBackVenta\Luxury.AplicacionWeb
+build_property.MSBuildProjectDirectory = D:\facun\Descargas\LuxuryBackVenta\Luxury.AplicacionWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Alumno/Downloads/LUXURY/LuxuryBackVenta/Luxury.AplicacionWeb/Views/Home/Index.cshtml]
+[D:/facun/Descargas/LuxuryBackVenta/Luxury.AplicacionWeb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alumno/Downloads/LUXURY/LuxuryBackVenta/Luxury.AplicacionWeb/Views/Home/Privacy.cshtml]
+[D:/facun/Descargas/LuxuryBackVenta/Luxury.AplicacionWeb/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alumno/Downloads/LUXURY/LuxuryBackVenta/Luxury.AplicacionWeb/Views/Shared/Error.cshtml]
+[D:/facun/Descargas/LuxuryBackVenta/Luxury.AplicacionWeb/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alumno/Downloads/LUXURY/LuxuryBackVenta/Luxury.AplicacionWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/facun/Descargas/LuxuryBackVenta/Luxury.AplicacionWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alumno/Downloads/LUXURY/LuxuryBackVenta/Luxury.AplicacionWeb/Views/_ViewImports.cshtml]
+[D:/facun/Descargas/LuxuryBackVenta/Luxury.AplicacionWeb/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alumno/Downloads/LUXURY/LuxuryBackVenta/Luxury.AplicacionWeb/Views/_ViewStart.cshtml]
+[D:/facun/Descargas/LuxuryBackVenta/Luxury.AplicacionWeb/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alumno/Downloads/LUXURY/LuxuryBackVenta/Luxury.AplicacionWeb/Views/Shared/_Layout.cshtml]
+[D:/facun/Descargas/LuxuryBackVenta/Luxury.AplicacionWeb/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-7frl9r6abz
