@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Panel</title>
+    <link rel="stylesheet" href="css/general.css">
+    <link rel="stylesheet" href="css/sidebar.css">
+    <link rel="stylesheet" href="css/topbar.css">
+    <link rel="stylesheet" href="css/content.css">
+</head>
+<body>
+    <div class="wrapper">
+        <nav class="sidebar">
+            <div class="sidebar-brand">
+                <i class="fas fa-store"></i> MI TIENDA
+            </div>
+            <ul class="sidebar-nav">
+                <li class="nav-item">
+                    <a href="dashboard.html"><i class="fas fa-tachometer-alt"></i> Dashboard</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#" onclick="toggleCollapse('inventoryCollapse')"><i class="fas fa-boxes"></i> Gestión de Inventario</a>
+                    <ul id="inventoryCollapse" class="collapse">
+                        <li><a href="productos.html">Productos</a></li>
+                        <li><a href="categorias.html">Categorías</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item">
+                    <a href="usuarios.html"><i class="fas fa-users"></i> Gestión de Usuarios</a>
+                </li>
+                <li class="nav-item">
+                    <a href="pedidos.html"><i class="fas fa-shopping-cart"></i> Gestión de Pedidos</a>
+                </li>
+                <li class="nav-item">
+                    <a href="configuracion.html"><i class="fas fa-cogs"></i> Configuración</a>
+                </li>
+            </ul>
+        </nav>
+
+        <div class="content">
+            <header class="topbar">
+                <div class="topbar-search">
+                    <input type="text" placeholder="Buscar...">
+                    <button><i class="fas fa-search"></i></button>
+                </div>
+                <div class="topbar-profile">
+                    <span>TUTUCA</span>
+                    <img src="https://images.unsplash.com/photo-1519648023493-d82b5f8d7b8a?w=300" alt="Profile Picture">
+                </div>
+            </header>
+
+            <main class="main-content">
+                <!-- Contenido principal aquí -->
+            </main>
+        </div>
+    </div>
+
+    <script src="js/main.js"></script>
+</body>
+</html>

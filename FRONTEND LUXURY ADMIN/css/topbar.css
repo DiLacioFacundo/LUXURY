@@ -1,0 +1,45 @@
+/* Topbar Styles */
+.topbar {
+    width: calc(98% - 250px);
+    height: 60px;
+    background-color: #fff;
+    color: #333;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    z-index: 999;
+}
+
+.topbar-search {
+    display: flex;
+    align-items: center;
+}
+
+.topbar-search input {
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.topbar-search button {
+    background-color: #4b0082;
+    color: #fff;
+    border: none;
+    padding: 6px 10px;
+    cursor: pointer;
+    margin-left: 5px;
+}
+
+.topbar-profile {
+    display: flex;
+    align-items: center;
+}
+
+.topbar-profile span {
+    margin-right: 10px;
+}
